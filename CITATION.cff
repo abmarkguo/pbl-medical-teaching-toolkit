@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "PBL Medical Teaching Toolkit / PBL医学院教学工具箱"
+message: "A comprehensive PBL teaching toolkit for basic medical science faculty"
+type: software
+authors:
+  - alias: abmarkguo
+keywords:
+  - PBL
+  - Problem-Based Learning
+  - Medical Education
+  - Basic Medical Science
+  - Clinical Case
+  - Maastricht 7-Step
+  - Hawaiian PBL
+  - Chinese PBL
+  - Assessment Rubrics
+  - Basic-Clinical Bridge
+license: MIT
+repository-code: "https://github.com/abmarkguo/pbl-medical-teaching-toolkit"
+version: "1.0.0"
+date-released: "2026-07-17"
