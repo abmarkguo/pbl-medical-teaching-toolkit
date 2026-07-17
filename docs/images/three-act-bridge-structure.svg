@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 420" font-family="Microsoft YaHei, PingFang SC, sans-serif">
+  <rect width="680" height="420" fill="#1a1a2e"/>
+  
+  <text x="340" y="30" text-anchor="middle" fill="#e0e0e0" font-size="18" font-weight="600">
+    PBL 三幕式案例结构与基础-临床桥接
+  </text>
+  <text x="340" y="48" text-anchor="middle" fill="#a0a0b0" font-size="11">
+    3-Act PBL Case Structure with Basic-Clinical Bridge
+  </text>
+  
+  <defs>
+    <marker id="arr_3a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L9,3 z" fill="#8a8a9a"/>
+    </marker>
+  </defs>
+  
+  <!-- Act 1 -->
+  <rect x="20" y="65" width="200" height="310" rx="8" fill="#16213e" stroke="#4e9af1" stroke-width="1.5"/>
+  <text x="120" y="88" text-anchor="middle" fill="#4e9af1" font-size="13" font-weight="600">第一幕：首次就诊</text>
+  <text x="120" y="103" text-anchor="middle" fill="#a0a0b0" font-size="9">Act 1: Presentation</text>
+  
+  <text x="120" y="125" text-anchor="middle" fill="#e0e0e0" font-size="10">患者信息 · 主诉</text>
+  <text x="120" y="140" text-anchor="middle" fill="#e0e0e0" font-size="10">现病史 · 既往史</text>
+  <text x="120" y="155" text-anchor="middle" fill="#e0e0e0" font-size="10">社会心理因素</text>
+  
+  <line x1="40" y1="170" x2="200" y2="170" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="120" y="190" text-anchor="middle" fill="#5cb85c" font-size="10">学习目标 3-5个</text>
+  <text x="120" y="205" text-anchor="middle" fill="#5cb85c" font-size="10">Bloom L1-L3</text>
+  <text x="120" y="225" text-anchor="middle" fill="#f0ad4e" font-size="10">引导问题 5-8个</text>
+  <text x="120" y="245" text-anchor="middle" fill="#d9534f" font-size="10">知识锚点 3-4个</text>
+  
+  <line x1="40" y1="260" x2="200" y2="260" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="120" y="280" text-anchor="middle" fill="#a0a0b0" font-size="9">信息量 30-35%</text>
+  <text x="120" y="300" text-anchor="middle" fill="#4e9af1" font-size="10" font-weight="500">核心：激活已有知识</text>
+  <text x="120" y="315" text-anchor="middle" fill="#4e9af1" font-size="10" font-weight="500">头脑风暴</text>
+  
+  <text x="120" y="340" text-anchor="middle" fill="#a0a0b0" font-size="9">桥接：症状→机制</text>
+  <text x="120" y="355" text-anchor="middle" fill="#a0a0b0" font-size="9">基础：解剖/生理</text>
+  
+  <line x1="220" y1="220" x2="240" y2="220" stroke="#8a8a9a" stroke-width="2" marker-end="url(#arr_3a)"/>
+  
+  <!-- Act 2 -->
+  <rect x="240" y="65" width="200" height="310" rx="8" fill="#16213e" stroke="#5cb85c" stroke-width="1.5"/>
+  <text x="340" y="88" text-anchor="middle" fill="#5cb85c" font-size="13" font-weight="600">第二幕：检查与发现</text>
+  <text x="340" y="103" text-anchor="middle" fill="#a0a0b0" font-size="9">Act 2: Investigation</text>
+  
+  <text x="340" y="125" text-anchor="middle" fill="#e0e0e0" font-size="10">体格检查发现</text>
+  <text x="340" y="140" text-anchor="middle" fill="#e0e0e0" font-size="10">实验室检查（含正常值）</text>
+  <text x="340" y="155" text-anchor="middle" fill="#e0e0e0" font-size="10">影像学 · 特殊检查</text>
+  
+  <line x1="260" y1="170" x2="420" y2="170" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="340" y="190" text-anchor="middle" fill="#5cb85c" font-size="10">学习目标 3-5个</text>
+  <text x="340" y="205" text-anchor="middle" fill="#5cb85c" font-size="10">Bloom L3-L5</text>
+  <text x="340" y="225" text-anchor="middle" fill="#f0ad4e" font-size="10">引导问题 5-8个</text>
+  <text x="340" y="245" text-anchor="middle" fill="#d9534f" font-size="10">知识锚点 4-6个</text>
+  
+  <line x1="260" y1="260" x2="420" y2="260" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="340" y="280" text-anchor="middle" fill="#a0a0b0" font-size="9">信息量 35-40%</text>
+  <text x="340" y="300" text-anchor="middle" fill="#5cb85c" font-size="10" font-weight="500">核心：鉴别诊断</text>
+  <text x="340" y="315" text-anchor="middle" fill="#5cb85c" font-size="10" font-weight="500">机制链接</text>
+  
+  <text x="340" y="340" text-anchor="middle" fill="#a0a0b0" font-size="9">桥接：检查→机制→诊断</text>
+  <text x="340" y="355" text-anchor="middle" fill="#a0a0b0" font-size="9">基础：生化/免疫/病理</text>
+  
+  <line x1="440" y1="220" x2="460" y2="220" stroke="#8a8a9a" stroke-width="2" marker-end="url(#arr_3a)"/>
+  
+  <!-- Act 3 -->
+  <rect x="460" y="65" width="200" height="310" rx="8" fill="#16213e" stroke="#9b59b6" stroke-width="1.5"/>
+  <text x="560" y="88" text-anchor="middle" fill="#9b59b6" font-size="13" font-weight="600">第三幕：诊疗与随访</text>
+  <text x="560" y="103" text-anchor="middle" fill="#a0a0b0" font-size="9">Act 3: Management</text>
+  
+  <text x="560" y="125" text-anchor="middle" fill="#e0e0e0" font-size="10">最终诊断及依据</text>
+  <text x="560" y="140" text-anchor="middle" fill="#e0e0e0" font-size="10">治疗方案（药理基础）</text>
+  <text x="560" y="155" text-anchor="middle" fill="#e0e0e0" font-size="10">随访 · 人文/伦理</text>
+  
+  <line x1="480" y1="170" x2="640" y2="170" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="560" y="190" text-anchor="middle" fill="#5cb85c" font-size="10">学习目标 3-5个</text>
+  <text x="560" y="205" text-anchor="middle" fill="#5cb85c" font-size="10">Bloom L4-L6</text>
+  <text x="560" y="225" text-anchor="middle" fill="#f0ad4e" font-size="10">引导问题 5-8个</text>
+  <text x="560" y="245" text-anchor="middle" fill="#d9534f" font-size="10">知识锚点 5-8个</text>
+  
+  <line x1="480" y1="260" x2="640" y2="260" stroke="#4a5568" stroke-width="1"/>
+  
+  <text x="560" y="280" text-anchor="middle" fill="#a0a0b0" font-size="9">信息量 25-35%</text>
+  <text x="560" y="300" text-anchor="middle" fill="#9b59b6" font-size="10" font-weight="500">核心：综合反思</text>
+  <text x="560" y="315" text-anchor="middle" fill="#9b59b6" font-size="10" font-weight="500">知识迁移</text>
+  
+  <text x="560" y="340" text-anchor="middle" fill="#a0a0b0" font-size="9">桥接：药理→治疗决策</text>
+  <text x="560" y="355" text-anchor="middle" fill="#a0a0b0" font-size="9">基础：药理/病理生理</text>
+  
+  <!-- Bottom: Bridge Flow -->
+  <text x="340" y="400" text-anchor="middle" fill="#f0ad4e" font-size="11" font-weight="500">
+    桥接路径：基础医学概念 → 病理生理机制 → 临床表现 → 检查解读 → 诊断确立 → 治疗决策
+  </text>
+</svg>
