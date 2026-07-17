@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 540" font-family="Microsoft YaHei, PingFang SC, sans-serif">
+  <rect width="680" height="540" fill="#1a1a2e"/>
+  
+  <text x="340" y="30" text-anchor="middle" fill="#e0e0e0" font-size="18" font-weight="600">
+    PBL 医学院教学工具箱 · 七大功能架构
+  </text>
+  <text x="340" y="50" text-anchor="middle" fill="#a0a0b0" font-size="11">
+    Seven Core Functions of PBL Medical Teaching Toolkit
+  </text>
+  
+  <!-- Center hub -->
+  <circle cx="340" cy="290" r="55" fill="#16213e" stroke="#4e9af1" stroke-width="2"/>
+  <text x="340" y="285" text-anchor="middle" fill="#4e9af1" font-size="13" font-weight="600">PBL</text>
+  <text x="340" y="302" text-anchor="middle" fill="#e0e0e0" font-size="11">教学工具箱</text>
+  
+  <!-- Function 1: Top -->
+  <rect x="250" y="70" width="180" height="55" rx="8" fill="#16213e" stroke="#4e9af1" stroke-width="1.5"/>
+  <text x="340" y="90" text-anchor="middle" fill="#4e9af1" font-size="12" font-weight="600">① PBL住院案例生成</text>
+  <text x="340" y="108" text-anchor="middle" fill="#a0a0b0" font-size="9">3幕式渐进 · 分级难度 · 知识锚点</text>
+  <line x1="340" y1="125" x2="340" y2="235" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 2: Top-Right -->
+  <rect x="470" y="110" width="180" height="55" rx="8" fill="#16213e" stroke="#5cb85c" stroke-width="1.5"/>
+  <text x="560" y="130" text-anchor="middle" fill="#5cb85c" font-size="12" font-weight="600">② PBL教学环节设计</text>
+  <text x="560" y="148" text-anchor="middle" fill="#a0a0b0" font-size="9">三模型融合 · 时间分配 · 流程方案</text>
+  <line x1="470" y1="150" x2="395" y2="260" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 3: Right -->
+  <rect x="470" y="230" width="180" height="55" rx="8" fill="#16213e" stroke="#f0ad4e" stroke-width="1.5"/>
+  <text x="560" y="250" text-anchor="middle" fill="#f0ad4e" font-size="12" font-weight="600">③ PBL教学资料包</text>
+  <text x="560" y="268" text-anchor="middle" fill="#a0a0b0" font-size="9">导师指南 · 学生工作表 · 参考资料</text>
+  <line x1="470" y1="258" x2="395" y2="285" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 4: Bottom-Right -->
+  <rect x="470" y="350" width="180" height="55" rx="8" fill="#16213e" stroke="#d9534f" stroke-width="1.5"/>
+  <text x="560" y="370" text-anchor="middle" fill="#d9534f" font-size="12" font-weight="600">④ PBL教学流程图</text>
+  <text x="560" y="388" text-anchor="middle" fill="#a0a0b0" font-size="9">SVG格式 · 五类流程图 · 可视化</text>
+  <line x1="470" y1="365" x2="395" y2="310" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 5: Bottom -->
+  <rect x="250" y="420" width="180" height="55" rx="8" fill="#16213e" stroke="#9b59b6" stroke-width="1.5"/>
+  <text x="340" y="440" text-anchor="middle" fill="#9b59b6" font-size="12" font-weight="600">⑤ PBL导师引导方案</text>
+  <text x="340" y="458" text-anchor="middle" fill="#a0a0b0" font-size="9">提问策略 · 困境应对 · 各幕引导</text>
+  <line x1="340" y1="420" x2="340" y2="345" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 6: Bottom-Left -->
+  <rect x="30" y="350" width="180" height="55" rx="8" fill="#16213e" stroke="#4e9af1" stroke-width="1.5"/>
+  <text x="120" y="370" text-anchor="middle" fill="#4e9af1" font-size="12" font-weight="600">⑥ PBL评估量规</text>
+  <text x="120" y="388" text-anchor="middle" fill="#a0a0b0" font-size="9">自评/互评/他评 · 案例审核</text>
+  <line x1="210" y1="365" x2="285" y2="310" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Function 7: Left -->
+  <rect x="30" y="230" width="180" height="55" rx="8" fill="#16213e" stroke="#5cb85c" stroke-width="1.5"/>
+  <text x="120" y="250" text-anchor="middle" fill="#5cb85c" font-size="12" font-weight="600">⑦ 基础-临床桥接</text>
+  <text x="120" y="268" text-anchor="middle" fill="#a0a0b0" font-size="9">知识锚点 · 推理阶梯 · 学科图谱</text>
+  <line x1="210" y1="258" x2="285" y2="285" stroke="#4a5568" stroke-width="1.5" stroke-dasharray="3,3"/>
+  
+  <!-- Difficulty levels at bottom -->
+  <rect x="100" y="495" width="160" height="30" rx="4" fill="#1a1a2e" stroke="#4e9af1" stroke-width="1"/>
+  <text x="180" y="515" text-anchor="middle" fill="#a0a0b0" font-size="10">L1 本科低年级</text>
+  
+  <rect x="270" y="495" width="160" height="30" rx="4" fill="#1a1a2e" stroke="#5cb85c" stroke-width="1"/>
+  <text x="350" y="515" text-anchor="middle" fill="#a0a0b0" font-size="10">L2 本科高年级</text>
+  
+  <rect x="440" y="495" width="160" height="30" rx="4" fill="#1a1a2e" stroke="#d9534f" stroke-width="1"/>
+  <text x="520" y="515" text-anchor="middle" fill="#a0a0b0" font-size="10">L3 研究生/规培</text>
+</svg>
